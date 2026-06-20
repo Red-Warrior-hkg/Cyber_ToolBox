@@ -24,6 +24,3 @@ Each tool has its own README with setup and run instructions, since languages an
 |------|----------|-------------|
 | [Process killer](./process_killer.py) | python | terminate all processes started by a scecifique user |
 
-## License
-
-MIT
