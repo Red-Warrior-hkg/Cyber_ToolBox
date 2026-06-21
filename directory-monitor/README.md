@@ -50,7 +50,7 @@ It is designed as an educational project to understand file systems, polling tec
 
 ```bash
 
-git clone https://github.com/Red-Warrior-hkg/Cyber_ToolBox/directory-monitor.git
+git clone https://github.com/Red-Warrior-hkg/Cyber_ToolBox.gti
 
 cd directory-monitor
 
