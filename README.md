@@ -22,5 +22,5 @@ Each tool has its own README with setup and run instructions, since languages an
 
 | Name | Language | Description |
 |------|----------|-------------|
-| [Process killer](./process_killer.py) | python | terminate all processes started by a scecifique user |
+| [Process killer](https://github.com/Red-Warrior-hkg/Cyber_ToolBox/tree/main/process%20killer) | python | terminate all processes started by a scecifique user |
 
