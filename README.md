@@ -22,5 +22,5 @@ Each tool has its own README with setup and run instructions, since languages an
 
 | Name | Language | Description |
 |------|----------|-------------|
-| [Process killer](https://github.com/Red-Warrior-hkg/Cyber_ToolBox/tree/main/process%20killer) | python | terminate all processes started by a scecifique user |
-
+| [Process killer](https://github.com/Red-Warrior-hkg/Cyber_ToolBox/tree/main/process%20killer) | python | Terminate All Active Processes Owned by a Targeted User |
+| [Directory monitor](https://github.com/Red-Warrior-hkg/Cyber_ToolBox/tree/main/directory-monitor)| python | Real-time File System Surveillance & Monitoring |
